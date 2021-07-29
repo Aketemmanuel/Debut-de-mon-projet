@@ -1,0 +1,30 @@
+
+
+header{
+	display: inline-flex;
+	background: #2c3E50;
+	color: white;
+	width: 100%;
+}
+ul{
+	margin-top: 2.1rem;
+	margin-left: 5rem;
+}
+
+ul li{
+	list-style: none;
+	display: inline-flex;
+	margin-left: 12px;
+}
+h2{
+	padding: 1rem;
+	margin-left: -5px
+	margin-top:-1px;
+}
+section img{
+	display: inline-flex;
+	height: 150px;
+	width: 150px;
+	border:1px solid width;
+	border-radius: 75px;
+}
